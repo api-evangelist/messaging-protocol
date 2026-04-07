@@ -10,10 +10,10 @@ image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 url: >-
   https://raw.githubusercontent.com/api-evangelist/messaging-protocol/refs/heads/main/apis.yml
 tags:
-  - Messaging Protocol
-  - Networking
   - AMQP
+  - Messaging Protocol
   - MQTT
+  - Networking
   - Protocols
 created: '2025-01-01'
 modified: '2026-03-16'
