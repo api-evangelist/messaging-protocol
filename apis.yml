@@ -36,6 +36,12 @@ tags:
   - Messaging Protocol
   - MQTT
   - Networking
+  - Protocol
+tags_raw:
+  - AMQP
+  - Messaging Protocol
+  - MQTT
+  - Networking
   - Protocols
 created: '2025-01-01'
 modified: '2026-04-28'
